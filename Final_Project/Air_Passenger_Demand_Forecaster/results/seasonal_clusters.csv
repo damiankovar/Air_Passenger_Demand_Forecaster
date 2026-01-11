@@ -1,0 +1,782 @@
+route,origin,destination,cluster
+GVA-Abu Dhabi International,GVA,Abu Dhabi International,1
+GVA-Africa,GVA,Africa,1
+GVA-Amsterdam Schiphol,GVA,Amsterdam Schiphol,1
+GVA-Argentina,GVA,Argentina,1
+GVA-Auckland International,GVA,Auckland International,1
+GVA-Australia,GVA,Australia,1
+GVA-Austria,GVA,Austria,1
+GVA-Belarus,GVA,Belarus,1
+GVA-Belgium,GVA,Belgium,1
+GVA-Berlin,GVA,Berlin,1
+GVA-Billund,GVA,Billund,1
+GVA-Blaise Diagne International,GVA,Blaise Diagne International,1
+GVA-Bogota,GVA,Bogota,1
+GVA-Brazil,GVA,Brazil,1
+GVA-Bremen,GVA,Bremen,1
+GVA-Brisbane International,GVA,Brisbane International,1
+GVA-Bristol,GVA,Bristol,1
+GVA-Brussels National,GVA,Brussels National,1
+GVA-Budapest,GVA,Budapest,1
+GVA-Buenos Aires Ministro Pistarini,GVA,Buenos Aires Ministro Pistarini,1
+GVA-Cabo Verde,GVA,Cabo Verde,1
+GVA-Cairo,GVA,Cairo,1
+GVA-Cambodia,GVA,Cambodia,1
+GVA-Cameroon,GVA,Cameroon,1
+GVA-Cancun,GVA,Cancun,1
+GVA-Cape Town,GVA,Cape Town,1
+GVA-Chennai/Madras,GVA,Chennai/Madras,1
+GVA-Chile,GVA,Chile,1
+GVA-Colombia,GVA,Colombia,1
+GVA-Colombo Bandaranayike,GVA,Colombo Bandaranayike,1
+GVA-Costa Rica,GVA,Costa Rica,1
+GVA-Cuba,GVA,Cuba,1
+GVA-Czechia,GVA,Czechia,1
+GVA-Dakar,GVA,Dakar,1
+GVA-Denmark,GVA,Denmark,1
+GVA-Dominican Republic,GVA,Dominican Republic,1
+GVA-Domodedovo International,GVA,Domodedovo International,1
+GVA-Douala,GVA,Douala,1
+GVA-Dresden,GVA,Dresden,1
+GVA-Dubai International,GVA,Dubai International,1
+GVA-Dublin,GVA,Dublin,1
+GVA-Düsseldorf,GVA,Düsseldorf,1
+GVA-Edinburgh,GVA,Edinburgh,1
+GVA-Egypt,GVA,Egypt,1
+GVA-Estonia,GVA,Estonia,1
+GVA-Europe,GVA,Europe,1
+GVA-Finland,GVA,Finland,1
+GVA-Germany,GVA,Germany,1
+GVA-Graz,GVA,Graz,1
+GVA-Hamburg Fuhlsbüttel,GVA,Hamburg Fuhlsbüttel,1
+GVA-Hannover,GVA,Hannover,1
+GVA-Hanoi,GVA,Hanoi,1
+GVA-Helsinki,GVA,Helsinki,1
+GVA-Ho Chi Minh City,GVA,Ho Chi Minh City,1
+GVA-Hong Kong,GVA,Hong Kong,1
+GVA-Hong Kong Chek Lap Kok Int.Airport,GVA,Hong Kong Chek Lap Kok Int.Airport,1
+GVA-Hungary,GVA,Hungary,1
+GVA-Hurghada,GVA,Hurghada,1
+GVA-India,GVA,India,1
+GVA-Indira Gandhi International,GVA,Indira Gandhi International,1
+GVA-Ireland,GVA,Ireland,1
+GVA-Israel,GVA,Israel,1
+GVA-Istanbul,GVA,Istanbul,1
+GVA-Johannesburg International,GVA,Johannesburg International,1
+GVA-Jordan,GVA,Jordan,1
+GVA-Jorge Chávez International,GVA,Jorge Chávez International,1
+GVA-Kathmandu,GVA,Kathmandu,1
+GVA-Kenya,GVA,Kenya,1
+GVA-Kiev Borispol,GVA,Kiev Borispol,1
+GVA-Kobenhavn Kastrup,GVA,Kobenhavn Kastrup,1
+GVA-Krakow,GVA,Krakow,1
+GVA-Köln Bonn,GVA,Köln Bonn,1
+GVA-Lanzarote,GVA,Lanzarote,1
+GVA-Las Palmas,GVA,Las Palmas,1
+GVA-Latvia,GVA,Latvia,1
+GVA-Leipzig,GVA,Leipzig,1
+GVA-Lithuania,GVA,Lithuania,1
+GVA-London City,GVA,London City,1
+GVA-London Gatwick,GVA,London Gatwick,1
+GVA-London Heathrow,GVA,London Heathrow,1
+GVA-Lugano-Agno,GVA,Lugano-Agno,1
+GVA-Luxembourg,GVA,Luxembourg,1
+GVA-Madrid Barajas,GVA,Madrid Barajas,1
+GVA-Maldives,GVA,Maldives,1
+GVA-Male,GVA,Male,1
+GVA-Manchester International,GVA,Manchester International,1
+GVA-Manila Ninoy Aquino International,GVA,Manila Ninoy Aquino International,1
+GVA-Marrakech,GVA,Marrakech,1
+GVA-Marsa Alam,GVA,Marsa Alam,1
+GVA-Mauritius,GVA,Mauritius,1
+GVA-Melbourne,GVA,Melbourne,1
+GVA-Mexico,GVA,Mexico,1
+GVA-Mexico City Benito Juarez Intl,GVA,Mexico City Benito Juarez Intl,1
+GVA-Miami International,GVA,Miami International,1
+GVA-Milano Linate,GVA,Milano Linate,1
+GVA-Minsk International 2,GVA,Minsk International 2,1
+GVA-Morocco,GVA,Morocco,1
+GVA-Moskva Sheremetyevo,GVA,Moskva Sheremetyevo,1
+GVA-Moskva Vnukovo,GVA,Moskva Vnukovo,1
+GVA-Muscat,GVA,Muscat,1
+GVA-Myanmar,GVA,Myanmar,1
+GVA-Nairobi Jomo Kenyatta International,GVA,Nairobi Jomo Kenyatta International,1
+GVA-Nepal,GVA,Nepal,1
+GVA-Netherlands,GVA,Netherlands,1
+GVA-New Zealand,GVA,New Zealand,1
+GVA-Norway,GVA,Norway,1
+GVA-Nürnberg,GVA,Nürnberg,1
+GVA-Oceania,GVA,Oceania,1
+GVA-Oman,GVA,Oman,1
+GVA-Orlando International,GVA,Orlando International,1
+GVA-Oslo Gardermoen,GVA,Oslo Gardermoen,1
+GVA-Other airports: America,GVA,Other airports: America,1
+GVA-Other airports: Belgium,GVA,Other airports: Belgium,1
+GVA-Other airports: Brazil,GVA,Other airports: Brazil,1
+GVA-Other airports: Cabo Verde,GVA,Other airports: Cabo Verde,1
+GVA-Other airports: Cambodia,GVA,Other airports: Cambodia,1
+GVA-Other airports: Denmark,GVA,Other airports: Denmark,1
+GVA-Other airports: India,GVA,Other airports: India,1
+GVA-Other airports: Myanmar,GVA,Other airports: Myanmar,1
+GVA-Other airports: Russia,GVA,Other airports: Russia,1
+GVA-Other airports: South Africa,GVA,Other airports: South Africa,1
+GVA-Other airports: Ukraine,GVA,Other airports: Ukraine,1
+GVA-Panama,GVA,Panama,1
+GVA-Panama City Tocumen Internationl,GVA,Panama City Tocumen Internationl,1
+GVA-Paris Charles De Gaulle,GVA,Paris Charles De Gaulle,1
+GVA-Paris Orly,GVA,Paris Orly,1
+GVA-Perth,GVA,Perth,1
+GVA-Peru,GVA,Peru,1
+GVA-Philippines,GVA,Philippines,1
+GVA-Phuket.International,GVA,Phuket.International,1
+GVA-Poland,GVA,Poland,1
+GVA-Punta Cana,GVA,Punta Cana,1
+GVA-Qatar,GVA,Qatar,1
+GVA-Rabat,GVA,Rabat,1
+GVA-Rennes,GVA,Rennes,1
+GVA-Riga,GVA,Riga,1
+GVA-Rio De Janeiro International,GVA,Rio De Janeiro International,1
+GVA-Roma Fiumicino,GVA,Roma Fiumicino,1
+GVA-Russia,GVA,Russia,1
+GVA-Salzburg,GVA,Salzburg,1
+GVA-San Jose Juan Santamaria,GVA,San Jose Juan Santamaria,1
+GVA-Santiago Comodoro Arturo Merino Ben,GVA,Santiago Comodoro Arturo Merino Ben,1
+GVA-Sao Paulo Guarulhos Int,GVA,Sao Paulo Guarulhos Int,1
+GVA-Senegal,GVA,Senegal,1
+GVA-Sevilla,GVA,Sevilla,1
+GVA-Sharm El Sheikh International,GVA,Sharm El Sheikh International,1
+GVA-Sibiu,GVA,Sibiu,1
+GVA-South Africa,GVA,South Africa,1
+GVA-Sphinx International Airport,GVA,Sphinx International Airport,1
+GVA-Sri Lanka,GVA,Sri Lanka,1
+GVA-St Petersburg Pulkovo,GVA,St Petersburg Pulkovo,1
+GVA-Stockholm Arlanda,GVA,Stockholm Arlanda,1
+GVA-Stuttgart,GVA,Stuttgart,1
+GVA-Suvarnabhumi Bangkok International,GVA,Suvarnabhumi Bangkok International,1
+GVA-Sweden,GVA,Sweden,1
+GVA-Sydney Kingsford Smith,GVA,Sydney Kingsford Smith,1
+GVA-Tallinn,GVA,Tallinn,1
+GVA-Tel Aviv Ben Gurion International,GVA,Tel Aviv Ben Gurion International,1
+GVA-Tenerife Sur Reina Sofia,GVA,Tenerife Sur Reina Sofia,1
+GVA-Thailand,GVA,Thailand,1
+GVA-Toulouse Blagnac,GVA,Toulouse Blagnac,1
+GVA-Ukraine,GVA,Ukraine,1
+GVA-United Arab Emirates,GVA,United Arab Emirates,1
+GVA-United Kingdom,GVA,United Kingdom,1
+GVA-Vietnam,GVA,Vietnam,1
+GVA-Vilnius,GVA,Vilnius,1
+GVA-Warszawa,GVA,Warszawa,1
+GVA-Wroclaw,GVA,Wroclaw,1
+GVA-Yaoundé Nsimalen International,GVA,Yaoundé Nsimalen International,1
+GVA-Zagreb,GVA,Zagreb,1
+GVA-Zanzibar,GVA,Zanzibar,1
+GVA-Zürich,GVA,Zürich,1
+ZRH-Abu Dhabi International,ZRH,Abu Dhabi International,1
+ZRH-Addis Ababa,ZRH,Addis Ababa,1
+ZRH-Africa,ZRH,Africa,1
+ZRH-Al Massira,ZRH,Al Massira,1
+ZRH-Algeria,ZRH,Algeria,1
+ZRH-Algiers,ZRH,Algiers,1
+ZRH-Amsterdam Schiphol,ZRH,Amsterdam Schiphol,1
+ZRH-Argentina,ZRH,Argentina,1
+ZRH-Auckland International,ZRH,Auckland International,1
+ZRH-Australia,ZRH,Australia,1
+ZRH-Austria,ZRH,Austria,1
+ZRH-Banja Luka,ZRH,Banja Luka,1
+ZRH-Belgium,ZRH,Belgium,1
+ZRH-Blaise Diagne International,ZRH,Blaise Diagne International,1
+ZRH-Bogota,ZRH,Bogota,1
+ZRH-Brazil,ZRH,Brazil,1
+ZRH-Bremen,ZRH,Bremen,1
+ZRH-Brisbane International,ZRH,Brisbane International,1
+ZRH-Brussels National,ZRH,Brussels National,1
+ZRH-Buenos Aires Ministro Pistarini,ZRH,Buenos Aires Ministro Pistarini,1
+ZRH-Cabo Verde,ZRH,Cabo Verde,1
+ZRH-Cairo,ZRH,Cairo,1
+ZRH-Cambodia,ZRH,Cambodia,1
+ZRH-Cameroon,ZRH,Cameroon,1
+ZRH-Cancun,ZRH,Cancun,1
+ZRH-Cape Town,ZRH,Cape Town,1
+ZRH-Chile,ZRH,Chile,1
+ZRH-Cochin International,ZRH,Cochin International,1
+ZRH-Colombia,ZRH,Colombia,1
+ZRH-Colombo Bandaranayike,ZRH,Colombo Bandaranayike,1
+ZRH-Costa Rica,ZRH,Costa Rica,1
+ZRH-Cuba,ZRH,Cuba,1
+ZRH-Dakar,ZRH,Dakar,1
+ZRH-Dar Es Salaam,ZRH,Dar Es Salaam,1
+ZRH-Dominican Republic,ZRH,Dominican Republic,1
+ZRH-Domodedovo International,ZRH,Domodedovo International,1
+ZRH-Douala,ZRH,Douala,1
+ZRH-Dubai International,ZRH,Dubai International,1
+ZRH-Düsseldorf,ZRH,Düsseldorf,1
+ZRH-Ethiopia,ZRH,Ethiopia,1
+ZRH-Finland,ZRH,Finland,1
+ZRH-Frankfurt International,ZRH,Frankfurt International,1
+ZRH-Genève,ZRH,Genève,1
+ZRH-Germany,ZRH,Germany,1
+ZRH-Hannover,ZRH,Hannover,1
+ZRH-Hanoi,ZRH,Hanoi,1
+ZRH-Ho Chi Minh City,ZRH,Ho Chi Minh City,1
+ZRH-Istanbul,ZRH,Istanbul,1
+ZRH-Jamaica,ZRH,Jamaica,1
+ZRH-Johannesburg International,ZRH,Johannesburg International,1
+ZRH-Jorge Chávez International,ZRH,Jorge Chávez International,1
+ZRH-Kathmandu,ZRH,Kathmandu,1
+ZRH-Kenya,ZRH,Kenya,1
+ZRH-Kiev Borispol,ZRH,Kiev Borispol,1
+ZRH-Koh Samui,ZRH,Koh Samui,1
+ZRH-Kuala Lumpur.International,ZRH,Kuala Lumpur.International,1
+ZRH-Köln Bonn,ZRH,Köln Bonn,1
+ZRH-Lanzarote,ZRH,Lanzarote,1
+ZRH-Las Palmas,ZRH,Las Palmas,1
+ZRH-Leipzig,ZRH,Leipzig,1
+ZRH-Liberia/Daniel Oduber Quiros,ZRH,Liberia/Daniel Oduber Quiros,1
+ZRH-London City,ZRH,London City,1
+ZRH-London Gatwick,ZRH,London Gatwick,1
+ZRH-London Heathrow,ZRH,London Heathrow,1
+ZRH-Luxembourg,ZRH,Luxembourg,1
+ZRH-Lyon Satolas,ZRH,Lyon Satolas,1
+ZRH-Madrid Barajas,ZRH,Madrid Barajas,1
+ZRH-Mahe Island,ZRH,Mahe Island,1
+ZRH-Malaysia,ZRH,Malaysia,1
+ZRH-Maldives,ZRH,Maldives,1
+ZRH-Male,ZRH,Male,1
+ZRH-Manchester International,ZRH,Manchester International,1
+ZRH-Manila Ninoy Aquino International,ZRH,Manila Ninoy Aquino International,1
+ZRH-Marrakech,ZRH,Marrakech,1
+ZRH-Mauritius,ZRH,Mauritius,1
+ZRH-Melbourne,ZRH,Melbourne,1
+ZRH-Mexico,ZRH,Mexico,1
+ZRH-Mexico City Benito Juarez Intl,ZRH,Mexico City Benito Juarez Intl,1
+ZRH-Miami International,ZRH,Miami International,1
+ZRH-Milano Malpensa,ZRH,Milano Malpensa,1
+ZRH-Montego Bay,ZRH,Montego Bay,1
+ZRH-Morocco,ZRH,Morocco,1
+ZRH-Moskva Sheremetyevo,ZRH,Moskva Sheremetyevo,1
+ZRH-Muscat,ZRH,Muscat,1
+ZRH-Myanmar,ZRH,Myanmar,1
+ZRH-München Franz Joseph Strauss,ZRH,München Franz Joseph Strauss,1
+ZRH-Nepal,ZRH,Nepal,1
+ZRH-Netherlands,ZRH,Netherlands,1
+ZRH-New Zealand,ZRH,New Zealand,1
+ZRH-Nürnberg,ZRH,Nürnberg,1
+ZRH-Oceania,ZRH,Oceania,1
+ZRH-Oman,ZRH,Oman,1
+ZRH-Other airports: Africa,ZRH,Other airports: Africa,1
+ZRH-Other airports: America,ZRH,Other airports: America,1
+ZRH-Other airports: Brazil,ZRH,Other airports: Brazil,1
+ZRH-Other airports: Cabo Verde,ZRH,Other airports: Cabo Verde,1
+ZRH-Other airports: Cambodia,ZRH,Other airports: Cambodia,1
+ZRH-Other airports: Colombia,ZRH,Other airports: Colombia,1
+ZRH-Other airports: Denmark,ZRH,Other airports: Denmark,1
+ZRH-Other airports: Dominican Republic,ZRH,Other airports: Dominican Republic,1
+ZRH-Other airports: India,ZRH,Other airports: India,1
+ZRH-Other airports: Malaysia,ZRH,Other airports: Malaysia,1
+ZRH-Other airports: Myanmar,ZRH,Other airports: Myanmar,1
+ZRH-Other airports: New Zealand,ZRH,Other airports: New Zealand,1
+ZRH-Other airports: Oceania,ZRH,Other airports: Oceania,1
+ZRH-Other airports: Oman,ZRH,Other airports: Oman,1
+ZRH-Other airports: Philippines,ZRH,Other airports: Philippines,1
+ZRH-Other airports: South Africa,ZRH,Other airports: South Africa,1
+ZRH-Other airports: Thailand,ZRH,Other airports: Thailand,1
+ZRH-Other airports: United Arab Emirates,ZRH,Other airports: United Arab Emirates,1
+ZRH-Panama,ZRH,Panama,1
+ZRH-Panama City Tocumen Internationl,ZRH,Panama City Tocumen Internationl,1
+ZRH-Paris Charles De Gaulle,ZRH,Paris Charles De Gaulle,1
+ZRH-Perth,ZRH,Perth,1
+ZRH-Peru,ZRH,Peru,1
+ZRH-Philippines,ZRH,Philippines,1
+ZRH-Punta Cana,ZRH,Punta Cana,1
+ZRH-Rio De Janeiro International,ZRH,Rio De Janeiro International,1
+ZRH-Russia,ZRH,Russia,1
+ZRH-San Jose Juan Santamaria,ZRH,San Jose Juan Santamaria,1
+ZRH-Santa Cruz De La Palma,ZRH,Santa Cruz De La Palma,1
+ZRH-Santiago Comodoro Arturo Merino Ben,ZRH,Santiago Comodoro Arturo Merino Ben,1
+ZRH-Santo Domingo Las Americas,ZRH,Santo Domingo Las Americas,1
+ZRH-Sao Paulo Guarulhos Int,ZRH,Sao Paulo Guarulhos Int,1
+ZRH-Senegal,ZRH,Senegal,1
+ZRH-Sevilla,ZRH,Sevilla,1
+ZRH-Seychelles,ZRH,Seychelles,1
+ZRH-Sharm El Sheikh International,ZRH,Sharm El Sheikh International,1
+ZRH-Shenzhen.Baoan,ZRH,Shenzhen.Baoan,1
+ZRH-Singapore,ZRH,Singapore,1
+ZRH-Singapore Changi,ZRH,Singapore Changi,1
+ZRH-South Africa,ZRH,South Africa,1
+ZRH-Sri Lanka,ZRH,Sri Lanka,1
+ZRH-Stuttgart,ZRH,Stuttgart,1
+ZRH-Suvarnabhumi Bangkok International,ZRH,Suvarnabhumi Bangkok International,1
+ZRH-Sydney Kingsford Smith,ZRH,Sydney Kingsford Smith,1
+ZRH-Tenerife Sur Reina Sofia,ZRH,Tenerife Sur Reina Sofia,1
+ZRH-Thailand,ZRH,Thailand,1
+ZRH-Tromsö,ZRH,Tromsö,1
+ZRH-Ukraine,ZRH,Ukraine,1
+ZRH-United Arab Emirates,ZRH,United Arab Emirates,1
+ZRH-United Kingdom,ZRH,United Kingdom,1
+ZRH-Varadero/Juan G. Gomez Intl,ZRH,Varadero/Juan G. Gomez Intl,1
+ZRH-Vietnam,ZRH,Vietnam,1
+ZRH-Wien,ZRH,Wien,1
+ZRH-Wroclaw,ZRH,Wroclaw,1
+ZRH-Yaoundé Nsimalen International,ZRH,Yaoundé Nsimalen International,1
+GVA-Ajaccio,GVA,Ajaccio,2
+GVA-Antalya,GVA,Antalya,2
+GVA-Bari,GVA,Bari,2
+GVA-Bastia,GVA,Bastia,2
+GVA-Biarritz,GVA,Biarritz,2
+GVA-Cagliari,GVA,Cagliari,2
+GVA-Calvi,GVA,Calvi,2
+GVA-Chania,GVA,Chania,2
+GVA-Croatia,GVA,Croatia,2
+GVA-Dubrovnik,GVA,Dubrovnik,2
+GVA-Faro,GVA,Faro,2
+GVA-Figari,GVA,Figari,2
+GVA-Heraklion,GVA,Heraklion,2
+GVA-Ibiza,GVA,Ibiza,2
+GVA-Iceland,GVA,Iceland,2
+GVA-Izmir Adnan Menderes,GVA,Izmir Adnan Menderes,2
+GVA-Kayseri,GVA,Kayseri,2
+GVA-Kerkyra,GVA,Kerkyra,2
+GVA-Kos,GVA,Kos,2
+GVA-Lamezia Terme,GVA,Lamezia Terme,2
+GVA-Malta,GVA,Malta,2
+GVA-Menorca,GVA,Menorca,2
+GVA-Mikonos,GVA,Mikonos,2
+GVA-Milas Bodrum International,GVA,Milas Bodrum International,2
+GVA-Monastir,GVA,Monastir,2
+GVA-Montenegro,GVA,Montenegro,2
+GVA-Olbia,GVA,Olbia,2
+GVA-Other airports: France,GVA,Other airports: France,2
+GVA-Other airports: Greece,GVA,Other airports: Greece,2
+GVA-Other airports: Japan,GVA,Other airports: Japan,2
+GVA-Palma De Mallorca,GVA,Palma De Mallorca,2
+GVA-Ponta Delgada,GVA,Ponta Delgada,2
+GVA-Reykjavik Keflavik,GVA,Reykjavik Keflavik,2
+GVA-Rhodos,GVA,Rhodos,2
+GVA-Santorini/Thira,GVA,Santorini/Thira,2
+GVA-Split,GVA,Split,2
+GVA-Tivat,GVA,Tivat,2
+GVA-Zakinthos,GVA,Zakinthos,2
+ZRH-Antalya,ZRH,Antalya,2
+ZRH-Biarritz,ZRH,Biarritz,2
+ZRH-Brindisi,ZRH,Brindisi,2
+ZRH-Cagliari,ZRH,Cagliari,2
+ZRH-Calgary,ZRH,Calgary,2
+ZRH-Calvi,ZRH,Calvi,2
+ZRH-Chania,ZRH,Chania,2
+ZRH-Cork,ZRH,Cork,2
+ZRH-Cyprus,ZRH,Cyprus,2
+ZRH-Djerba,ZRH,Djerba,2
+ZRH-Dubrovnik,ZRH,Dubrovnik,2
+ZRH-Edinburgh,ZRH,Edinburgh,2
+ZRH-Enfidha Hammamet Ali Internation,ZRH,Enfidha Hammamet Ali Internation,2
+ZRH-Figari,ZRH,Figari,2
+ZRH-Greece,ZRH,Greece,2
+ZRH-Heraklion,ZRH,Heraklion,2
+ZRH-Ibiza,ZRH,Ibiza,2
+ZRH-Iceland,ZRH,Iceland,2
+ZRH-Kansai International,ZRH,Kansai International,2
+ZRH-Kerkyra,ZRH,Kerkyra,2
+ZRH-Kos,ZRH,Kos,2
+ZRH-Larnaca,ZRH,Larnaca,2
+ZRH-Menorca,ZRH,Menorca,2
+ZRH-Mikonos,ZRH,Mikonos,2
+ZRH-Milas Bodrum International,ZRH,Milas Bodrum International,2
+ZRH-Olbia,ZRH,Olbia,2
+ZRH-Other airports: Bulgaria,ZRH,Other airports: Bulgaria,2
+ZRH-Other airports: Germany,ZRH,Other airports: Germany,2
+ZRH-Other airports: Greece,ZRH,Other airports: Greece,2
+ZRH-Palermo Punta Rasai,ZRH,Palermo Punta Rasai,2
+ZRH-Palma De Mallorca,ZRH,Palma De Mallorca,2
+ZRH-Ponta Delgada,ZRH,Ponta Delgada,2
+ZRH-Pula,ZRH,Pula,2
+ZRH-Reykjavik Keflavik,ZRH,Reykjavik Keflavik,2
+ZRH-Rhodos,ZRH,Rhodos,2
+ZRH-Santiago De Compostela,ZRH,Santiago De Compostela,2
+ZRH-Santorini/Thira,ZRH,Santorini/Thira,2
+ZRH-Split,ZRH,Split,2
+ZRH-Tivat,ZRH,Tivat,2
+ZRH-Vancouver International,ZRH,Vancouver International,2
+ZRH-Zakinthos,ZRH,Zakinthos,2
+GVA-Belfast International,GVA,Belfast International,3
+GVA-Birmingham International,GVA,Birmingham International,3
+GVA-Bournemouth,GVA,Bournemouth,3
+GVA-Cork,GVA,Cork,3
+GVA-East Midlands,GVA,East Midlands,3
+GVA-Fuerteventura,GVA,Fuerteventura,3
+GVA-Glasgow International,GVA,Glasgow International,3
+GVA-Göteborg Landvetter,GVA,Göteborg Landvetter,3
+GVA-Leeds Bradford,GVA,Leeds Bradford,3
+GVA-Liverpool,GVA,Liverpool,3
+GVA-London Luton,GVA,London Luton,3
+GVA-London Stansted,GVA,London Stansted,3
+GVA-Newcastle,GVA,Newcastle,3
+GVA-Other airports: Jordan,GVA,Other airports: Jordan,3
+GVA-Other airports: United Kingdom,GVA,Other airports: United Kingdom,3
+GVA-Southampton,GVA,Southampton,3
+GVA-Southend,GVA,Southend,3
+GVA-Tromsö,GVA,Tromsö,3
+ZRH-Cartagena,ZRH,Cartagena,3
+ZRH-London Stansted,ZRH,London Stansted,3
+ZRH-Phuket.International,ZRH,Phuket.International,3
+GVA-Addis Ababa,GVA,Addis Ababa,4
+GVA-Al Massira,GVA,Al Massira,4
+GVA-Algeria,GVA,Algeria,4
+GVA-Algiers,GVA,Algiers,4
+GVA-Alicante,GVA,Alicante,4
+GVA-America,GVA,America,4
+GVA-Amman Queen Alia International,GVA,Amman Queen Alia International,4
+GVA-Ankara Esenboga,GVA,Ankara Esenboga,4
+GVA-Asia,GVA,Asia,4
+GVA-Atlanta Hartsfield Intl,GVA,Atlanta Hartsfield Intl,4
+GVA-Bali Intl/Ngurah Rai,GVA,Bali Intl/Ngurah Rai,4
+GVA-Bangalore,GVA,Bangalore,4
+GVA-Barcelona,GVA,Barcelona,4
+GVA-Beijing Capital,GVA,Beijing Capital,4
+GVA-Beirut,GVA,Beirut,4
+GVA-Belgrade,GVA,Belgrade,4
+GVA-Bergen,GVA,Bergen,4
+GVA-Bilbao,GVA,Bilbao,4
+GVA-Bologna,GVA,Bologna,4
+GVA-Bombay,GVA,Bombay,4
+GVA-Bordeaux,GVA,Bordeaux,4
+GVA-Bosnia and Herzegovina,GVA,Bosnia and Herzegovina,4
+GVA-Boston Logan International,GVA,Boston Logan International,4
+GVA-Brindisi,GVA,Brindisi,4
+GVA-Bucuresti Otopeni,GVA,Bucuresti Otopeni,4
+GVA-Bulgaria,GVA,Bulgaria,4
+GVA-Calgary,GVA,Calgary,4
+GVA-Canada,GVA,Canada,4
+GVA-Casablanca Mohamed V,GVA,Casablanca Mohamed V,4
+GVA-Catania,GVA,Catania,4
+GVA-Charlotte,GVA,Charlotte,4
+GVA-Chicago O Hare International,GVA,Chicago O Hare International,4
+GVA-China,GVA,China,4
+GVA-Cluj,GVA,Cluj,4
+GVA-Cyprus,GVA,Cyprus,4
+GVA-Dallas Fort Worth Intl,GVA,Dallas Fort Worth Intl,4
+GVA-Dar Es Salaam,GVA,Dar Es Salaam,4
+GVA-Denver International,GVA,Denver International,4
+GVA-Detroit Wayne County,GVA,Detroit Wayne County,4
+GVA-Djerba,GVA,Djerba,4
+GVA-Eleftherios Venizelos International,GVA,Eleftherios Venizelos International,4
+GVA-Enfidha Hammamet Ali Internation,GVA,Enfidha Hammamet Ali Internation,4
+GVA-Ethiopia,GVA,Ethiopia,4
+GVA-Firenze Peretola,GVA,Firenze Peretola,4
+GVA-France,GVA,France,4
+GVA-Frankfurt International,GVA,Frankfurt International,4
+GVA-Gaziantep,GVA,Gaziantep,4
+GVA-Georgia,GVA,Georgia,4
+GVA-Greece,GVA,Greece,4
+GVA-Guangzhou.Baiyun,GVA,Guangzhou.Baiyun,4
+GVA-Houston Intercontinental,GVA,Houston Intercontinental,4
+GVA-Iasi,GVA,Iasi,4
+GVA-Incheon International,GVA,Incheon International,4
+GVA-Indonesia,GVA,Indonesia,4
+GVA-Iran,GVA,Iran,4
+GVA-Iraq,GVA,Iraq,4
+GVA-Istanbul Airport,GVA,Istanbul Airport,4
+GVA-Istanbul Sabiha Gokcen,GVA,Istanbul Sabiha Gokcen,4
+GVA-Italy,GVA,Italy,4
+GVA-Jakarta Soekarno-Hatta,GVA,Jakarta Soekarno-Hatta,4
+GVA-Japan,GVA,Japan,4
+GVA-Jeddah.King Abdulaziz,GVA,Jeddah.King Abdulaziz,4
+GVA-Kansai International,GVA,Kansai International,4
+GVA-Kishinev,GVA,Kishinev,4
+GVA-Kosice,GVA,Kosice,4
+GVA-Kosovo,GVA,Kosovo,4
+GVA-Kuala Lumpur.International,GVA,Kuala Lumpur.International,4
+GVA-Kuwait,GVA,Kuwait,4
+GVA-La Coruna,GVA,La Coruna,4
+GVA-Larnaca,GVA,Larnaca,4
+GVA-Las Vegas Mccarran Intl.Airport,GVA,Las Vegas Mccarran Intl.Airport,4
+GVA-Lebanon,GVA,Lebanon,4
+GVA-Lille Lesquin,GVA,Lille Lesquin,4
+GVA-Lisboa,GVA,Lisboa,4
+GVA-Ljubljana,GVA,Ljubljana,4
+GVA-Los Angeles International,GVA,Los Angeles International,4
+GVA-Madeira,GVA,Madeira,4
+GVA-Mahe Island,GVA,Mahe Island,4
+GVA-Malaga,GVA,Malaga,4
+GVA-Malaysia,GVA,Malaysia,4
+GVA-Marseille,GVA,Marseille,4
+GVA-Milano Malpensa,GVA,Milano Malpensa,4
+GVA-Minneapolis International,GVA,Minneapolis International,4
+GVA-Moldova,GVA,Moldova,4
+GVA-Montreal Dorval International,GVA,Montreal Dorval International,4
+GVA-München Franz Joseph Strauss,GVA,München Franz Joseph Strauss,4
+GVA-Namibia,GVA,Namibia,4
+GVA-Nantes,GVA,Nantes,4
+GVA-Napoli Capodichino,GVA,Napoli Capodichino,4
+GVA-New York J F Kennedy,GVA,New York J F Kennedy,4
+GVA-New York Newark International,GVA,New York Newark International,4
+GVA-Nice,GVA,Nice,4
+GVA-Other airports: Africa,GVA,Other airports: Africa,4
+GVA-Other airports: Asia,GVA,Other airports: Asia,4
+GVA-Other airports: Bulgaria,GVA,Other airports: Bulgaria,4
+GVA-Other airports: Canada,GVA,Other airports: Canada,4
+GVA-Other airports: China,GVA,Other airports: China,4
+GVA-Other airports: Germany,GVA,Other airports: Germany,4
+GVA-Other airports: Iraq,GVA,Other airports: Iraq,4
+GVA-Other airports: Morocco,GVA,Other airports: Morocco,4
+GVA-Other airports: Oceania,GVA,Other airports: Oceania,4
+GVA-Other airports: Saudi Arabia,GVA,Other airports: Saudi Arabia,4
+GVA-Other airports: United States,GVA,Other airports: United States,4
+GVA-Ottawa Mcdonald Cartier Intl,GVA,Ottawa Mcdonald Cartier Intl,4
+GVA-Palermo Punta Rasai,GVA,Palermo Punta Rasai,4
+GVA-Philadelphia International,GVA,Philadelphia International,4
+GVA-Phoenix Sky Harbor International,GVA,Phoenix Sky Harbor International,4
+GVA-Pisa,GVA,Pisa,4
+GVA-Podgorica,GVA,Podgorica,4
+GVA-Porto,GVA,Porto,4
+GVA-Portugal,GVA,Portugal,4
+GVA-Praha,GVA,Praha,4
+GVA-Pristina (Kosovo),GVA,Pristina (Kosovo),4
+GVA-Raleigh/Durham,GVA,Raleigh/Durham,4
+GVA-Rebiechowo,GVA,Rebiechowo,4
+GVA-Riyadh,GVA,Riyadh,4
+GVA-Romania,GVA,Romania,4
+GVA-Salt Lake City,GVA,Salt Lake City,4
+GVA-San Diego Lindbergh Field Internat,GVA,San Diego Lindbergh Field Internat,4
+GVA-San Francisco International,GVA,San Francisco International,4
+GVA-Santiago De Compostela,GVA,Santiago De Compostela,4
+GVA-Sarajevo,GVA,Sarajevo,4
+GVA-Saudi Arabia,GVA,Saudi Arabia,4
+GVA-Seattle Tacoma International,GVA,Seattle Tacoma International,4
+GVA-Serbia,GVA,Serbia,4
+GVA-Seychelles,GVA,Seychelles,4
+GVA-Shanghai Pudong International,GVA,Shanghai Pudong International,4
+GVA-Singapore,GVA,Singapore,4
+GVA-Singapore Changi,GVA,Singapore Changi,4
+GVA-Skopje Alexander The Great,GVA,Skopje Alexander The Great,4
+GVA-Slovakia,GVA,Slovakia,4
+GVA-Slovenia,GVA,Slovenia,4
+GVA-Sofia,GVA,Sofia,4
+GVA-South Korea,GVA,South Korea,4
+GVA-Spain,GVA,Spain,4
+GVA-Taipei Chiang Kai Shek Intl,GVA,Taipei Chiang Kai Shek Intl,4
+GVA-Tampa International,GVA,Tampa International,4
+GVA-Tanzania,GVA,Tanzania,4
+GVA-Tblisi.Lochini/Novo Alexeyevka,GVA,Tblisi.Lochini/Novo Alexeyevka,4
+GVA-Teheran Imam Khomaini,GVA,Teheran Imam Khomaini,4
+GVA-Thessaloniki,GVA,Thessaloniki,4
+GVA-Tirana,GVA,Tirana,4
+GVA-Tokyo Haneda,GVA,Tokyo Haneda,4
+GVA-Tokyo Narita,GVA,Tokyo Narita,4
+GVA-Toronto Lester Pearson Internatio,GVA,Toronto Lester Pearson Internatio,4
+GVA-Tunis,GVA,Tunis,4
+GVA-Tunisia,GVA,Tunisia,4
+GVA-Türkiye,GVA,Türkiye,4
+GVA-United States,GVA,United States,4
+GVA-Valencia,GVA,Valencia,4
+GVA-Vancouver International,GVA,Vancouver International,4
+GVA-Venezia,GVA,Venezia,4
+GVA-Washington Dulles International,GVA,Washington Dulles International,4
+GVA-Wien,GVA,Wien,4
+GVA-Windhoek International,GVA,Windhoek International,4
+ZRH-Alicante,ZRH,Alicante,4
+ZRH-America,ZRH,America,4
+ZRH-Amman Queen Alia International,ZRH,Amman Queen Alia International,4
+ZRH-Ankara Esenboga,ZRH,Ankara Esenboga,4
+ZRH-Asia,ZRH,Asia,4
+ZRH-Atlanta Hartsfield Intl,ZRH,Atlanta Hartsfield Intl,4
+ZRH-Bali Intl/Ngurah Rai,ZRH,Bali Intl/Ngurah Rai,4
+ZRH-Bangalore,ZRH,Bangalore,4
+ZRH-Barcelona,ZRH,Barcelona,4
+ZRH-Bari,ZRH,Bari,4
+ZRH-Beijing Capital,ZRH,Beijing Capital,4
+ZRH-Beirut,ZRH,Beirut,4
+ZRH-Belarus,ZRH,Belarus,4
+ZRH-Belgrade,ZRH,Belgrade,4
+ZRH-Bergen,ZRH,Bergen,4
+ZRH-Berlin,ZRH,Berlin,4
+ZRH-Bilbao,ZRH,Bilbao,4
+ZRH-Billund,ZRH,Billund,4
+ZRH-Birmingham International,ZRH,Birmingham International,4
+ZRH-Bologna,ZRH,Bologna,4
+ZRH-Bombay,ZRH,Bombay,4
+ZRH-Bordeaux,ZRH,Bordeaux,4
+ZRH-Bosnia and Herzegovina,ZRH,Bosnia and Herzegovina,4
+ZRH-Boston Logan International,ZRH,Boston Logan International,4
+ZRH-Bristol,ZRH,Bristol,4
+ZRH-Bucuresti Otopeni,ZRH,Bucuresti Otopeni,4
+ZRH-Budapest,ZRH,Budapest,4
+ZRH-Bulgaria,ZRH,Bulgaria,4
+ZRH-Canada,ZRH,Canada,4
+ZRH-Casablanca Mohamed V,ZRH,Casablanca Mohamed V,4
+ZRH-Catania,ZRH,Catania,4
+ZRH-Charlotte,ZRH,Charlotte,4
+ZRH-Chengdu,ZRH,Chengdu,4
+ZRH-Chennai/Madras,ZRH,Chennai/Madras,4
+ZRH-Chicago O Hare International,ZRH,Chicago O Hare International,4
+ZRH-China,ZRH,China,4
+ZRH-Cluj,ZRH,Cluj,4
+ZRH-Croatia,ZRH,Croatia,4
+ZRH-Czechia,ZRH,Czechia,4
+ZRH-Dallas Fort Worth Intl,ZRH,Dallas Fort Worth Intl,4
+ZRH-Denmark,ZRH,Denmark,4
+ZRH-Denver International,ZRH,Denver International,4
+ZRH-Detroit Wayne County,ZRH,Detroit Wayne County,4
+ZRH-Dresden,ZRH,Dresden,4
+ZRH-Dublin,ZRH,Dublin,4
+ZRH-Egypt,ZRH,Egypt,4
+ZRH-Eleftherios Venizelos International,ZRH,Eleftherios Venizelos International,4
+ZRH-Estonia,ZRH,Estonia,4
+ZRH-Europe,ZRH,Europe,4
+ZRH-Faro,ZRH,Faro,4
+ZRH-Firenze Peretola,ZRH,Firenze Peretola,4
+ZRH-France,ZRH,France,4
+ZRH-Fuerteventura,ZRH,Fuerteventura,4
+ZRH-Gaziantep,ZRH,Gaziantep,4
+ZRH-Georgia,ZRH,Georgia,4
+ZRH-Glasgow International,ZRH,Glasgow International,4
+ZRH-Graz,ZRH,Graz,4
+ZRH-Guangzhou.Baiyun,ZRH,Guangzhou.Baiyun,4
+ZRH-Göteborg Landvetter,ZRH,Göteborg Landvetter,4
+ZRH-Hamburg Fuhlsbüttel,ZRH,Hamburg Fuhlsbüttel,4
+ZRH-Helsinki,ZRH,Helsinki,4
+ZRH-Hong Kong,ZRH,Hong Kong,4
+ZRH-Hong Kong Chek Lap Kok Int.Airport,ZRH,Hong Kong Chek Lap Kok Int.Airport,4
+ZRH-Houston Intercontinental,ZRH,Houston Intercontinental,4
+ZRH-Hungary,ZRH,Hungary,4
+ZRH-Hurghada,ZRH,Hurghada,4
+ZRH-Iasi,ZRH,Iasi,4
+ZRH-Incheon International,ZRH,Incheon International,4
+ZRH-India,ZRH,India,4
+ZRH-Indira Gandhi International,ZRH,Indira Gandhi International,4
+ZRH-Indonesia,ZRH,Indonesia,4
+ZRH-Iran,ZRH,Iran,4
+ZRH-Iraq,ZRH,Iraq,4
+ZRH-Ireland,ZRH,Ireland,4
+ZRH-Israel,ZRH,Israel,4
+ZRH-Istanbul Airport,ZRH,Istanbul Airport,4
+ZRH-Istanbul Sabiha Gokcen,ZRH,Istanbul Sabiha Gokcen,4
+ZRH-Italy,ZRH,Italy,4
+ZRH-Izmir Adnan Menderes,ZRH,Izmir Adnan Menderes,4
+ZRH-Jakarta Soekarno-Hatta,ZRH,Jakarta Soekarno-Hatta,4
+ZRH-Japan,ZRH,Japan,4
+ZRH-Jeddah.King Abdulaziz,ZRH,Jeddah.King Abdulaziz,4
+ZRH-Jordan,ZRH,Jordan,4
+ZRH-Kayseri,ZRH,Kayseri,4
+ZRH-Kishinev,ZRH,Kishinev,4
+ZRH-Kobenhavn Kastrup,ZRH,Kobenhavn Kastrup,4
+ZRH-Kosice,ZRH,Kosice,4
+ZRH-Kosovo,ZRH,Kosovo,4
+ZRH-Krakow,ZRH,Krakow,4
+ZRH-Kuwait,ZRH,Kuwait,4
+ZRH-La Coruna,ZRH,La Coruna,4
+ZRH-Lamezia Terme,ZRH,Lamezia Terme,4
+ZRH-Las Vegas Mccarran Intl.Airport,ZRH,Las Vegas Mccarran Intl.Airport,4
+ZRH-Latvia,ZRH,Latvia,4
+ZRH-Lebanon,ZRH,Lebanon,4
+ZRH-Leeds Bradford,ZRH,Leeds Bradford,4
+ZRH-Lisboa,ZRH,Lisboa,4
+ZRH-Lithuania,ZRH,Lithuania,4
+ZRH-Ljubljana,ZRH,Ljubljana,4
+ZRH-London Luton,ZRH,London Luton,4
+ZRH-Los Angeles International,ZRH,Los Angeles International,4
+ZRH-Lugano-Agno,ZRH,Lugano-Agno,4
+ZRH-Madeira,ZRH,Madeira,4
+ZRH-Malaga,ZRH,Malaga,4
+ZRH-Malta,ZRH,Malta,4
+ZRH-Marsa Alam,ZRH,Marsa Alam,4
+ZRH-Marseille,ZRH,Marseille,4
+ZRH-Minneapolis International,ZRH,Minneapolis International,4
+ZRH-Minsk International 2,ZRH,Minsk International 2,4
+ZRH-Moldova,ZRH,Moldova,4
+ZRH-Montenegro,ZRH,Montenegro,4
+ZRH-Montpellier,ZRH,Montpellier,4
+ZRH-Montreal Dorval International,ZRH,Montreal Dorval International,4
+ZRH-Moskva Vnukovo,ZRH,Moskva Vnukovo,4
+ZRH-Nairobi Jomo Kenyatta International,ZRH,Nairobi Jomo Kenyatta International,4
+ZRH-Namibia,ZRH,Namibia,4
+ZRH-Nantes,ZRH,Nantes,4
+ZRH-Napoli Capodichino,ZRH,Napoli Capodichino,4
+ZRH-New York J F Kennedy,ZRH,New York J F Kennedy,4
+ZRH-New York Newark International,ZRH,New York Newark International,4
+ZRH-Newcastle,ZRH,Newcastle,4
+ZRH-Nice,ZRH,Nice,4
+ZRH-Nis,ZRH,Nis,4
+ZRH-Norway,ZRH,Norway,4
+ZRH-Ohrid,ZRH,Ohrid,4
+ZRH-Orlando International,ZRH,Orlando International,4
+ZRH-Oslo Gardermoen,ZRH,Oslo Gardermoen,4
+ZRH-Other airports: Asia,ZRH,Other airports: Asia,4
+ZRH-Other airports: Canada,ZRH,Other airports: Canada,4
+ZRH-Other airports: China,ZRH,Other airports: China,4
+ZRH-Other airports: France,ZRH,Other airports: France,4
+ZRH-Other airports: Indonesia,ZRH,Other airports: Indonesia,4
+ZRH-Other airports: Iran,ZRH,Other airports: Iran,4
+ZRH-Other airports: Iraq,ZRH,Other airports: Iraq,4
+ZRH-Other airports: Japan,ZRH,Other airports: Japan,4
+ZRH-Other airports: Mexico,ZRH,Other airports: Mexico,4
+ZRH-Other airports: Morocco,ZRH,Other airports: Morocco,4
+ZRH-Other airports: Russia,ZRH,Other airports: Russia,4
+ZRH-Other airports: Saudi Arabia,ZRH,Other airports: Saudi Arabia,4
+ZRH-Other airports: Switzerland,ZRH,Other airports: Switzerland,4
+ZRH-Other airports: Ukraine,ZRH,Other airports: Ukraine,4
+ZRH-Other airports: United Kingdom,ZRH,Other airports: United Kingdom,4
+ZRH-Other airports: United States,ZRH,Other airports: United States,4
+ZRH-Ottawa Mcdonald Cartier Intl,ZRH,Ottawa Mcdonald Cartier Intl,4
+ZRH-Paris Orly,ZRH,Paris Orly,4
+ZRH-Philadelphia International,ZRH,Philadelphia International,4
+ZRH-Phoenix Sky Harbor International,ZRH,Phoenix Sky Harbor International,4
+ZRH-Podgorica,ZRH,Podgorica,4
+ZRH-Poland,ZRH,Poland,4
+ZRH-Porto,ZRH,Porto,4
+ZRH-Portugal,ZRH,Portugal,4
+ZRH-Praha,ZRH,Praha,4
+ZRH-Pristina (Kosovo),ZRH,Pristina (Kosovo),4
+ZRH-Qatar,ZRH,Qatar,4
+ZRH-Rabat,ZRH,Rabat,4
+ZRH-Raleigh/Durham,ZRH,Raleigh/Durham,4
+ZRH-Rebiechowo,ZRH,Rebiechowo,4
+ZRH-Rennes,ZRH,Rennes,4
+ZRH-Riga,ZRH,Riga,4
+ZRH-Riyadh,ZRH,Riyadh,4
+ZRH-Roma Fiumicino,ZRH,Roma Fiumicino,4
+ZRH-Romania,ZRH,Romania,4
+ZRH-Salt Lake City,ZRH,Salt Lake City,4
+ZRH-Salzburg,ZRH,Salzburg,4
+ZRH-San Diego Lindbergh Field Internat,ZRH,San Diego Lindbergh Field Internat,4
+ZRH-San Francisco International,ZRH,San Francisco International,4
+ZRH-Sarajevo,ZRH,Sarajevo,4
+ZRH-Saudi Arabia,ZRH,Saudi Arabia,4
+ZRH-Seattle Tacoma International,ZRH,Seattle Tacoma International,4
+ZRH-Serbia,ZRH,Serbia,4
+ZRH-Shanghai Pudong International,ZRH,Shanghai Pudong International,4
+ZRH-Sibiu,ZRH,Sibiu,4
+ZRH-Skopje Alexander The Great,ZRH,Skopje Alexander The Great,4
+ZRH-Slovakia,ZRH,Slovakia,4
+ZRH-Slovenia,ZRH,Slovenia,4
+ZRH-Sofia,ZRH,Sofia,4
+ZRH-South Korea,ZRH,South Korea,4
+ZRH-Spain,ZRH,Spain,4
+ZRH-St Petersburg Pulkovo,ZRH,St Petersburg Pulkovo,4
+ZRH-Stockholm Arlanda,ZRH,Stockholm Arlanda,4
+ZRH-Sweden,ZRH,Sweden,4
+ZRH-Taipei Chiang Kai Shek Intl,ZRH,Taipei Chiang Kai Shek Intl,4
+ZRH-Tallinn,ZRH,Tallinn,4
+ZRH-Tampa International,ZRH,Tampa International,4
+ZRH-Tanzania,ZRH,Tanzania,4
+ZRH-Tblisi.Lochini/Novo Alexeyevka,ZRH,Tblisi.Lochini/Novo Alexeyevka,4
+ZRH-Teheran Imam Khomaini,ZRH,Teheran Imam Khomaini,4
+ZRH-Tel Aviv Ben Gurion International,ZRH,Tel Aviv Ben Gurion International,4
+ZRH-Thessaloniki,ZRH,Thessaloniki,4
+ZRH-Tirana,ZRH,Tirana,4
+ZRH-Tokyo Haneda,ZRH,Tokyo Haneda,4
+ZRH-Tokyo Narita,ZRH,Tokyo Narita,4
+ZRH-Toronto Lester Pearson Internatio,ZRH,Toronto Lester Pearson Internatio,4
+ZRH-Toulouse Blagnac,ZRH,Toulouse Blagnac,4
+ZRH-Tunis,ZRH,Tunis,4
+ZRH-Tunisia,ZRH,Tunisia,4
+ZRH-Türkiye,ZRH,Türkiye,4
+ZRH-United States,ZRH,United States,4
+ZRH-Valencia,ZRH,Valencia,4
+ZRH-Venezia,ZRH,Venezia,4
+ZRH-Vilnius,ZRH,Vilnius,4
+ZRH-Warszawa,ZRH,Warszawa,4
+ZRH-Washington Dulles International,ZRH,Washington Dulles International,4
+ZRH-Windhoek International,ZRH,Windhoek International,4
+ZRH-Zagreb,ZRH,Zagreb,4
+ZRH-Zanzibar,ZRH,Zanzibar,4
+ZRH-Zürich,ZRH,Zürich,4
