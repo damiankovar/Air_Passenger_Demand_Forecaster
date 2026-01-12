@@ -220,7 +220,8 @@ def run_pipeline():
         
         # Also create a summary by model (average across routes)
         # Calculate mean metrics, excluding NaN values (routes with < 1 passenger/month)
-        summary = ml_results_df.groupby('model')[['mae', 'rmse', 'mape']].mean()
+        summary = ml_results_df.groupby('model')[['mae', 'mape']].mean()
+
         
         # Add count of routes used for each metric (helps understand if some routes were excluded)
         summary['n_routes_mae'] = ml_results_df.groupby('model')['mae'].count()
@@ -235,7 +236,7 @@ def run_pipeline():
     # 6. Train SARIMA models (on same routes as ML models for fair comparison)
     # Both ML and SARIMA train and evaluate on the same routes
     
-    # Use the same routes as ML predictions
+    # Using the same routes as ML predictions
     sarima_routes = prediction_routes
     print(f"Training SARIMA on {len(sarima_routes)} routes (same as ML models)...")
     
@@ -310,10 +311,9 @@ def run_pipeline():
         print(f"Saved Seasonal Naive metrics to {seasonal_naive_path}")
         
         # Print summary for Seasonal Naive
-        seasonal_naive_summary = seasonal_naive_df[['mae', 'rmse', 'mape']].mean()
+        seasonal_naive_summary = seasonal_naive_df[['mae', 'mape']].mean()
         print(f"\nSeasonal Naive Performance (averaged across {len(seasonal_naive_df)} routes):")
         print(f"  MAE: {seasonal_naive_summary['mae']:.1f}")
-        print(f"  RMSE: {seasonal_naive_summary['rmse']:.1f}")
         print(f"  MAPE: {seasonal_naive_summary['mape']:.1f}%")
     else:
         print("Warning: No Seasonal Naive predictions to evaluate")
@@ -321,7 +321,7 @@ def run_pipeline():
     # 7. Generate visualizations
 
     # Most visualizations use all routes, but some focus on selected routes. 
-    # For example, all the fastest growing/delcining routes are based on all routes, since the script only selected 19 routes.
+    # For example, all the fastest growing/delcining routes are based on all routes, even though the script only selects 20 routes.
     print("Generating visualizations...")
     
     # Seasonality plot (uses all routes)
