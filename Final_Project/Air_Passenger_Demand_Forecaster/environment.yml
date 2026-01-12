@@ -1,19 +1,12 @@
-name: air_passenger_forecasting
-
+name: Air_Passenger_Demand_Forecaster
 channels:
-  - defaults
-
+  - conda-forge
 dependencies:
   - python=3.11
-  - pandas
   - numpy
+  - pandas
+  - scikit-learn
   - matplotlib
   - seaborn
-  - scikit-learn
-  - scipy
-  - jupyter
-  - pip
-  - pip:
-    - statsmodels
-    - xgboost
-    - pytest
+  - statsmodels
+  - xgboost
